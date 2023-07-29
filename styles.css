@@ -213,7 +213,7 @@ html{
 #corn{
     position: fixed;
     top: 70%;
-    left: 3%;
+    right: 3%;
     width: 150px;
     height: 200px;
 }
