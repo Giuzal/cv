@@ -52,7 +52,6 @@ body{
     }
 
     }
-}
 
 a{
     color: #E7717D;
@@ -143,14 +142,14 @@ h3{
 
 .me{
     margin: 20px;
-    background-color:white);
+    background-color:white;
     line-height: 40px;
 } 
 
 .list{
     list-style-type: square;
     color:#E7717D;
-    background-color: white);
+    background-color: white;
     margin-bottom: 10px;
 }
 
@@ -200,7 +199,7 @@ html{
     left: 50%;
     transform: translateX(-50%);
     padding: 5px;
-    background-color: white); 
+    background-color: white; 
     color: #ff69b4; 
     border-radius: 5px;
     white-space: nowrap;
